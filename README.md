@@ -1,5 +1,4 @@
-## Hi there 👋
-## I’m Saksham Deep
+## Hi there!! I’m Saksham Deep
 
 I build data analytics projects focused on structured problem-solving, clarity of insights, and practical decision support.
 
