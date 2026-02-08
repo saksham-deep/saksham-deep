@@ -11,10 +11,13 @@ This repository documents real-world analyses where I explore business questions
 - Power BI (Power Query, DAX), Excel, Google Sheets
 
 **Programming & data manipulation**
-- Python (pandas, numpy, matplotlib), SQL (MySQL)
+- Python (data analysis & scripting), SQL (MySQL)
+
+**Python Libraries**
+- pandas, numpy, matplotlib
 
 **Tools & workflow**
-- Jupyter Notebooks, Git, GitHub, basic familiarity with data pipelines and ETL principles
+- Jupyter Notebooks, GitHub
 
 **Analytics mindset**
 - Hypothesis-driven analysis, metric design, storytelling with data, stakeholder-focused communication
@@ -48,5 +51,5 @@ This GitHub is meant to reflect how I think about data — methodically, transpa
 ---
 
 ## 🤝 Let’s connect
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/saksham-deep)  
+Feel free to connect for discussions around data analytics, projects, and industry insights. 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/saksham-deep)
